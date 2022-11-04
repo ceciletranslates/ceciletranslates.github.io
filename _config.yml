@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : <p style='color:rgb(255;102;102); font-family:Times New Roman; font-size:25px;'>Cécile Translates</p>
+title                    : <p style='color:salmon; font-family:Times New Roman; font-size:25px;'>Cécile Translates</p>
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
