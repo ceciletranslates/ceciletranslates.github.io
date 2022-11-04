@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Cecile Translates"
+title                    : <p style='color:blue;'>"Cecile Translates"</p>
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
