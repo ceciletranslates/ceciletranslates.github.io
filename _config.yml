@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : <p style='text-align:center; font-size:20px;'>About</p>
+  name             : <p style='text-align:center; font-size:20px; font-family:Courier New;'>About</p>
   avatar           : "Picture1.png"
   bio              : "Hi! My name is Cécile!"
   location         : "Brunswick, ME - USA"
