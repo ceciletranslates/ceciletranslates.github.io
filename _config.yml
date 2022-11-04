@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : <p style='color:gray; font-family:Courier New; background-color:rgba(255, 0, 0, 0.8);'>Cecile Translates</p>
+title                    : <p style='color:gray; font-family:Courier New;'>Cecile Translates</p>
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -85,10 +85,7 @@ author:
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +93,17 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/c%C3%A9cile-s%C3%B6zen-phd-031791249/"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
