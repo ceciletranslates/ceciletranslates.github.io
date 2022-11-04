@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<!DOCTYPE html>
 <html>
   <p> Bonjour! </p>
   <strong> Comment ça va? </strong>
