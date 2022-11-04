@@ -7,15 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<html>
-  <p> Bonjour! </p>
-  <strong> Comment ça va? </strong>
-  <ul>  
-    <li> Un </li>
-    <li> Deux </li>
-    <li> Trois </li>
-  </ul>
- </html> 
+Bonjour!
  
 A data-driven personal website
 ======
