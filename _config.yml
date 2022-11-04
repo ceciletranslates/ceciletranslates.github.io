@@ -8,8 +8,9 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Cecile Translates"
+font                     : Comic Sans MS
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Cécile"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
