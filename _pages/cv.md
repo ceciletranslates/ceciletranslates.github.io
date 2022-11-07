@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Life Sciences, Sorbonne University Pierre & Marie Curie Campus, 2011
+* M.S. in Plant Integrative Biology & Physiology, Sorbonne University Pierre & Marie Curie Campus, 2013
+* Ph.D in Plant Physiology, Université Paris-Saclay, 2017
 
 Work experience
 ======
@@ -38,6 +38,8 @@ Skills
 
 Publications
 ======
+<a href="https://pubmed.ncbi.nlm.nih.gov/32265268/">Sözen C, Schenk ST, Boudsocq M, Chardin C, Almeida-Trapp M, Krapp A, Hirt H, Mithöfer A, Colcombet J. Wounding and Insect Feeding Trigger Two Independent MAPK Pathways with Distinct Regulation and Kinetics. Plant Cell. 2020 Jun;32(6):1988-2003. doi: 10.1105/tpc.19.00917</a>
+
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
