@@ -38,7 +38,14 @@ Skills
 
 Publications
 ======
-<a href="https://pubmed.ncbi.nlm.nih.gov/32265268/">Sözen C, Schenk ST, Boudsocq M, Chardin C, Almeida-Trapp M, Krapp A, Hirt H, Mithöfer A, Colcombet J. Wounding and Insect Feeding Trigger Two Independent MAPK Pathways with Distinct Regulation and Kinetics. Plant Cell. 2020 Jun;32(6):1988-2003. doi: 10.1105/tpc.19.00917</a>
+<ul>
+  <li>
+    <a href="https://pubmed.ncbi.nlm.nih.gov/32265268/">Sözen C, Schenk ST, Boudsocq M, Chardin C, Almeida-Trapp M, Krapp A, Hirt H, Mithöfer A, Colcombet J. Wounding and Insect Feeding Trigger Two Independent MAPK Pathways with Distinct Regulation and Kinetics. Plant Cell. 2020 Jun;32(6):1988-2003. doi: 10.1105/tpc.19.00917</a>
+  </li>
+  <li>
+    <a href="https://pubmed.ncbi.nlm.nih.gov/28066492/">Colcombet J, Sözen C, Hirt H. Convergence of Multiple MAP3Ks on MKK3 Identifies a Set of Novel Stress MAPK Modules. Front Plant Sci. 2016 Dec 22;7:1941. doi: 10.3389/fpls.2016.01941</a>
+  </li>  
+</ul>    
 
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
