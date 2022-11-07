@@ -40,7 +40,7 @@ Publications
 ======
 <ul>
   <li>
-    <a style="text-decoration:none; color:inherit;" href="https://plantae.org/recognizing-plant-cell-authors-cecile-sozen/">Recognized _Plant Cell_ author, 2020</a>
+    <a style="text-decoration:none; color:inherit;" href="https://plantae.org/recognizing-plant-cell-authors-cecile-sozen/">Recognized <em>Plant Cell</em> author, 2020</a>
   </li>
   <li>
     <a style="text-decoration:none; color:inherit;" href="https://pubmed.ncbi.nlm.nih.gov/32265268/">Sözen C, Schenk ST, Boudsocq M, Chardin C, Almeida-Trapp M, Krapp A, Hirt H, Mithöfer A, Colcombet J. Wounding and Insect Feeding Trigger Two Independent MAPK Pathways with Distinct Regulation and Kinetics. Plant Cell. 2020 Jun;32(6):1988-2003. doi: 10.1105/tpc.19.00917</a>
